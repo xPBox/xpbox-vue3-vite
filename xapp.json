@@ -1,0 +1,10 @@
+{
+  "name": "xPBox星盒App示例",
+  "packageId": "org.xpbox.example",
+  "entry": "./dist/index.html",
+  "defaultSize": [4, 4],
+  "resizable": {
+    "min": [2, 2],
+    "max": [8, 8]
+  }
+}
