@@ -883,10 +883,10 @@
   resolved "https://registry.npmmirror.com/@vue/tsconfig/-/tsconfig-0.5.1.tgz#3124ec16cc0c7e04165b88dc091e6b97782fffa9"
   integrity sha512-VcZK7MvpjuTPx2w6blwnwZAu5/LgBUtejFOi3pPGQFXQN5Ela03FUtd2Qtg4yWGGissVL0dr6Ro1LfOFh+PCuQ==
 
-"@xpbox/sdk@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.npmmirror.com/@xpbox/sdk/-/sdk-0.0.1.tgz#edeba80487edf400a769007a90249102600f1df1"
-  integrity sha512-ilb6XHpstAqBPkp1kaPjpkkHruzhCFlH3os1WSHt9+5PHlpTHYWCMIDB367i6V+Ihs7rJrvrXqSaIBD0Qd22Nw==
+"@xpbox/sdk@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@xpbox/sdk/-/sdk-0.0.2.tgz#fcad840c35553832f9e1dbd6ce58e1f8fd0fd559"
+  integrity sha512-fPqlR6phc5VV5vul0806uWJJr6/AsgufXVCFlc4tpET6eSglYN1DNVpUmuE0AMyUUlBiikzamYz0zhtMWV9O8w==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"
